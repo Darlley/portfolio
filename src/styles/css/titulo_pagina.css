@@ -1,0 +1,10 @@
+.title-page {
+  padding: 3rem;
+  display: flex;
+  justify-content: center;
+}
+.title-page h1 {
+  font-size: 1.5rem;
+}
+
+/*# sourceMappingURL=titulo_pagina.css.map */

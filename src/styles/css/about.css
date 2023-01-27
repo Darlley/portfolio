@@ -1,0 +1,17 @@
+.about {
+  height: 100vh;
+}
+.about > div nav {
+  background-color: #090e20;
+}
+.about .about__header {
+  padding: 6rem;
+}
+
+@media (max-width: 992px) {
+  .about > div nav {
+    background-color: #090e20;
+  }
+}
+
+/*# sourceMappingURL=about.css.map */
